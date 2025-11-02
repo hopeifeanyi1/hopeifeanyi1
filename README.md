@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm Ifeanyi Hope! 
+I’m a **Software Engineer**
+**Currently working on:** [CareerlyAI](https://careerlyai.app) 
 
 <!--
 **hopeifeanyi1/hopeifeanyi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
